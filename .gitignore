@@ -19,3 +19,11 @@ pages/
 **/blob-report/
 **/playwright/.cache/
 .github/instructions/nx.instructions.md
+.shore/state.json
+.shore/cache/
+.shore/receipts/
+.shore/reports/
+.shore/proposals/
+.shore/blueprints/
+.shore/discovery-facts.json
+.shore/discovery-interview.json
